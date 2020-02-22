@@ -1,0 +1,29 @@
+e2 e4
+g1 f3
+f1 c4
+e1 g1
+f1 e1
+g1 h1
+d1 f3
+c4 f7
+f7 e6
+f3 f8
+b1 c3
+e6 d7
+f8 d8
+d8 c6
+c7 c5
+b8 c6
+d8 c7
+d7 d6
+c8 g4
+g4 f3
+e8 c8
+h7 h5
+d8 d7
+c6 d8
+c7 c6
+c8 b8
+c6 c8
+end
+

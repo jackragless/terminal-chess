@@ -1,0 +1,2 @@
+chess: test_main.cpp piece.cpp board_test_1.cpp rook.cpp pawn.cpp bishop.cpp king.cpp knight.cpp queen.cpp
+	clang++ test_main.cpp piece.cpp board_test_1.cpp rook.cpp pawn.cpp bishop.cpp king.cpp knight.cpp queen.cpp -o chess
